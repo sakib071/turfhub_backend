@@ -1,0 +1,52 @@
+[
+  {
+    "_id": {
+      "$oid": "65e8af20029810163b40a150"
+    },
+    "name": "Sunset Turf",
+    "description": "Picturesque turf with stunning sunset views",
+    "location": "789 Beachfront Avenue, Seascape",
+    "contactNo": "+1234567890",
+    "owner": "Rachel Adams",
+    "address": "789 Beachfront Avenue, Seascape",
+    "facilities": [
+      "65e89993029810163b40a129",
+      "65e89993029810163b40a12a",
+      "65e89993029810163b40a12c",
+      "65e89993029810163b40a12d"
+    ],
+    "turfImage": ["image13.jpg", "image14.jpg"],
+    "activity": [
+      "65e8991c029810163b40a11c",
+      "65e8991c029810163b40a11d",
+      "65e8991c029810163b40a11e"
+    ],
+    "status": "active",
+    "isDeleted": false
+  },
+  {
+    "_id": {
+      "$oid": "65e8af20029810163b40a151"
+    },
+    "name": "Mountain View Turf",
+    "description": "Scenic turf surrounded by majestic mountains",
+    "location": "456 Summit Road, Mountain Valley",
+    "contactNo": "+9876543210",
+    "owner": "Michael Johnson",
+    "address": "456 Summit Road, Mountain Valley",
+    "facilities": [
+      "65e89993029810163b40a12b",
+      "65e89993029810163b40a12c",
+      "65e89993029810163b40a12d",
+      "65e89993029810163b40a12e"
+    ],
+    "turfImage": ["image15.jpg", "image16.jpg"],
+    "activity": [
+      "65e8991c029810163b40a11f",
+      "65e8991c029810163b40a120",
+      "65e8991c029810163b40a121"
+    ],
+    "status": "active",
+    "isDeleted": false
+  }
+]

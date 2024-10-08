@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a161"
+  },
+  "startTime": "15:30",
+  "endTime": "17:30",
+  "turf": "65e89993029810163b40a12a",
+  "activity": "65e8991c029810163b40a11f",
+  "price": 35,
+  "discount": 0,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a166"
+  },
+  "startTime": "15:30",
+  "endTime": "17:30",
+  "turf": "65e89993029810163b40a12f",
+  "activity": "65e8991c029810163b40a124",
+  "price": 35,
+  "discount": 10,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a162"
+  },
+  "startTime": "18:00",
+  "endTime": "20:00",
+  "turf": "65e89993029810163b40a12b",
+  "activity": "65e8991c029810163b40a120",
+  "price": 40,
+  "discount": 15,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a160"
+  },
+  "startTime": "13:00",
+  "endTime": "15:00",
+  "turf": "65e89993029810163b40a129",
+  "activity": "65e8991c029810163b40a11e",
+  "price": 30,
+  "discount": 10,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a165"
+  },
+  "startTime": "13:00",
+  "endTime": "15:00",
+  "turf": "65e89993029810163b40a12e",
+  "activity": "65e8991c029810163b40a123",
+  "price": 30,
+  "discount": 0,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a167"
+  },
+  "startTime": "18:00",
+  "endTime": "20:00",
+  "turf": "65e89993029810163b40a127",
+  "activity": "65e8991c029810163b40a125",
+  "price": 40,
+  "discount": 0,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a15e"
+  },
+  "startTime": "08:00",
+  "endTime": "10:00",
+  "turf": "65e89993029810163b40a127",
+  "activity": "65e8991c029810163b40a11c",
+  "price": 20,
+  "discount": 5,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a15f"
+  },
+  "startTime": "10:30",
+  "endTime": "12:30",
+  "turf": "65e89993029810163b40a128",
+  "activity": "65e8991c029810163b40a11d",
+  "price": 25,
+  "discount": 0,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a163"
+  },
+  "startTime": "08:00",
+  "endTime": "10:00",
+  "turf": "65e89993029810163b40a12c",
+  "activity": "65e8991c029810163b40a121",
+  "price": 20,
+  "discount": 0,
+  "status": "active",
+  "isDeleted": false
+},
+{
+  "_id": {
+    "$oid": "65e8b2bb029810163b40a164"
+  },
+  "startTime": "10:30",
+  "endTime": "12:30",
+  "turf": "65e89993029810163b40a12d",
+  "activity": "65e8991c029810163b40a122",
+  "price": 25,
+  "discount": 5,
+  "status": "active",
+  "isDeleted": false
+}]

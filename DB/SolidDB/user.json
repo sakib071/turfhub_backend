@@ -1,0 +1,30 @@
+[
+    {
+      "id": "user123",
+      "email": "user123@example.com",
+      "password": "$2a$12$63wtXDkeMJ9RCTkGq4ApxOohlmdEoC3l6f7mwOphPwS2Q.gbuBlGO",
+      "needsPasswordChange": false,
+      "role": "stuff",
+      "status": "active",
+      "isDeleted": false
+    },
+    {
+      "id": "player456",
+      "email": "player456@example.com",
+      "password": "$2a$12$63wtXDkeMJ9RCTkGq4ApxOohlmdEoC3l6f7mwOphPwS2Q.gbuBlGO",
+      "needsPasswordChange": true,
+      "role": "player",
+      "status": "inactive",
+      "isDeleted": false
+    },
+    {
+      "id": "turfowner789",
+      "email": "turfowner789@example.com",
+      "password": "$2a$12$63wtXDkeMJ9RCTkGq4ApxOohlmdEoC3l6f7mwOphPwS2Q.gbuBlGO",
+      "needsPasswordChange": true,
+      "role": "turf_owner",
+      "status": "active",
+      "isDeleted": true
+    }
+  ]
+  

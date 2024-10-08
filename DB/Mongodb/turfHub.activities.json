@@ -1,0 +1,79 @@
+[{
+  "_id": {
+    "$oid": "65e895d29b29f1b26c18170b"
+  },
+  "name": "check u",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a119"
+  },
+  "name": "Soccer"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11a"
+  },
+  "name": "Football"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11b"
+  },
+  "name": "Rugby"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11c"
+  },
+  "name": "Field Hockey"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11d"
+  },
+  "name": "Lacrosse"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11e"
+  },
+  "name": "Cricket"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a11f"
+  },
+  "name": "Baseball"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a120"
+  },
+  "name": "Softball"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a121"
+  },
+  "name": "Ultimate Frisbee"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a122"
+  },
+  "name": "Tennis"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a123"
+  },
+  "name": "Golf (Practice)"
+},
+{
+  "_id": {
+    "$oid": "65e8991c029810163b40a124"
+  },
+  "name": "Training Drills"
+}]

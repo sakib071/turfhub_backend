@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "65e89993029810163b40a12e"
+  },
+  "name": "Meeting Rooms"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a12c"
+  },
+  "name": "Pro Shop"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a12a"
+  },
+  "name": "Juice Bar"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a129"
+  },
+  "name": "Restrooms"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a130"
+  },
+  "name": "Spectator Stands"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a12b"
+  },
+  "name": "Cafeteria"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a12f"
+  },
+  "name": "First Aid Station"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a127"
+  },
+  "name": "Showers"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a128"
+  },
+  "name": "Locker Rooms"
+},
+{
+  "_id": {
+    "$oid": "65e89993029810163b40a12d"
+  },
+  "name": "Fitness Center"
+}]
